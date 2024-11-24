@@ -1,0 +1,1 @@
+{"name":"Local: compare","url":"c:\\Users\\Mahedy Hasan Noman\\Documents\\codeblock\\compare.c","tests":[{"id":1732024155985,"input":"acm\nacpc","output":"acm"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mahedy Hasan Noman\\Documents\\codeblock\\compare.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: count","url":"c:\\Users\\Noman\\Documents\\codeblock\\count.c","tests":[{"id":1731120606535,"input":"351","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Noman\\Documents\\codeblock\\count.c","group":"local","local":true}
