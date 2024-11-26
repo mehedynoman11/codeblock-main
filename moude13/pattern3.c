@@ -2,21 +2,14 @@
 
 int main() {
     // Write Your Code Here
-    int N, S, K;
-
+    int N, K=1;
     scanf("%d", &N);
-    S = N - 1;
-    K = 1;
 
     for(int i=1;i<=N;i++) {
-        for(int j=1;j<=S;j++) {
-            printf(" ");
-        }
         for(int j=1;j<=K;j++) {
-            printf("*");
+            printf("%d ",j);
         }
-        S--;
-        K=K+2;
+        K++;
         printf("\n");
     }
 
